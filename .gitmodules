@@ -1,0 +1,6 @@
+[submodule "MLecture_frontend"]
+	path = MLecture_frontend
+	url = https://github.com/Oliver98t/MLecture_frontend.git
+[submodule "MLecture_backend"]
+	path = MLecture_backend
+	url = https://github.com/Oliver98t/MLecture_backend.git
