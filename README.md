@@ -1,6 +1,6 @@
 # MLecture Project
 
-This repository serves as the main entry point for the MLecture project, which is an azure functions (backend) and azure static web apps (frontend) fullstack web app for simplifying note taking. All you need to do is supply a youtube link to the video and your notes will be created!
+This repository serves as the main entry point for the MLecture project, which is an azure functions (backend) and azure static web apps (frontend) fullstack web app for simplifying note taking. All you need to do is supply a YouTube link to the video and your notes will be created!
 
 ## Submodules
 
