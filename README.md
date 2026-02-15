@@ -2,7 +2,8 @@
 
 This repository serves as the main entry point for the MLecture project, which is an azure functions (backend) and azure static web apps (frontend) fullstack web app for simplifying note taking. All you need to do is supply a YouTube link to the video and your notes will be created!
 
-Heres a demo running live from Azure!
+Heres a demo running live from Azure:
+
 https://github.com/user-attachments/assets/62451153-ff0f-406b-8dd8-db4c481afafb
 
 ## Submodules
